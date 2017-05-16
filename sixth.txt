@@ -1,3 +1,0 @@
-And the sisxth  file is ready to work
-after moving the file from working copy>to staging i will delete this file from the folder
-and checking for commit
