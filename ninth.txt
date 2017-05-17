@@ -5,3 +5,6 @@ what a pitty thing guys
 again working on the RESET COMMAND
 
 hope this time we would do our level best 
+
+
+bing! the change was introduced here to check the reset command
